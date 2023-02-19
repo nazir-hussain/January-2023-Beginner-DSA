@@ -1,5 +1,4 @@
-
-JaggedArray.javapackage Array;
+package Array;
 
 import java.util.Scanner;
 
