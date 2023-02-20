@@ -1,5 +1,4 @@
 package Array.TwoDimension;
-
 import java.util.Scanner;
 
 public class TwoDArrayExample {
